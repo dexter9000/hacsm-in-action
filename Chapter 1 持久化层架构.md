@@ -197,3 +197,4 @@ chown postgres /var/log/pgpool
 License
 ---------  
 -  本文档遵守 GUN license. 详情请查看LICENSE.
+
